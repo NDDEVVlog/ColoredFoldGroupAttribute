@@ -34,9 +34,9 @@ public class ExampleScript : MonoBehaviour
 ```
 | Parameter | Type | Description |
 | :---         |     :---:      |          ---: |
-| 'path'   | 'string'  | Name of the foldout group    |
-| 'r, g, b, a'     | 'float'  | Color values (0-1) for red, green, blue, alpha    |
-| 'hexColor'     | 'string'   Hex color string (e.g., #FF5733)   |
+| **path**   | **string**  | Name of the foldout group    |
+| **r, g, b, a**     | **float**  | Color values (0-1) for red, green, blue, alpha    |
+| **hexColor**     | **string** |  Hex color string (e.g., #FF5733)   |
 
 ## Contributions
 Pull requests and improvements are welcome! 🚀
