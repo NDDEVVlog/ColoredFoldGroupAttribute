@@ -38,6 +38,10 @@ public class ExampleScript : MonoBehaviour
 | **r, g, b, a**     | **float**  | Color values (0-1) for red, green, blue, alpha    |
 | **hexColor**     | **string** |  Hex color string (e.g., #FF5733)   |
 
+## Example
+![image](https://github.com/user-attachments/assets/2e9be7ef-b8b2-48fd-845b-0d911da4ad1e)
+
+
 ## Contributions
 Pull requests and improvements are welcome! 🚀
 ## Contact
